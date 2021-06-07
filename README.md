@@ -5,7 +5,7 @@ Na platformie użytkownicy mogą kupować i sprzedawać produkty nie tylko w wer
 # Podgląd
  projektu:
 ![1](https://user-images.githubusercontent.com/45632898/121056680-bcc9fd80-c7be-11eb-952f-0ed15d3ab918.PNG)
-![2](https://user-images.githubusercontent.com/45632898/121057165-4679cb00-c7bf-11eb-8ffb-ac8c4301b208.PNG)
+![2](https://user-images.githubusercontent.com/45632898/121057414-8b056680-c7bf-11eb-8b7f-d9d98bd3547a.PNG)
 ![3](https://user-images.githubusercontent.com/45632898/121057232-585b6e00-c7bf-11eb-9186-162359beef46.PNG)
 ![4](https://user-images.githubusercontent.com/45632898/121057242-5b565e80-c7bf-11eb-93dc-89369b6e5f52.PNG)
 ![5](https://user-images.githubusercontent.com/45632898/121057252-5c878b80-c7bf-11eb-8a7d-c0caed21e9ec.PNG)
